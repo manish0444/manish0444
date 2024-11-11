@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  📫 How to reach me: <strong><a href="mailto:manish0444@example.com" style="color: #FFD700;">manish0444@example.com</a></strong>
+  📫 How to reach me: <strong><a href="mailto:manishbhandari0444@gmail.com" style="color: #FFD700;">manishbhandari0444@gmail.com</a></strong>
 </p>
 
 <h3 align="center" style="color: #FFA500;">Connect with me:</h3>
