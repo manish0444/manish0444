@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #FFD700;">Welcome to Manish's GitHub Profile <strong>(HAVE 70+ HIDDEN REPOs..hehe)</strong></h1>
+<h1 align="center" style="color: #FFD700;">Welcome to Manish's GitHub Profile <strong style="color: #FFA500;">(HAVE 70+ HIDDEN REPOs..hehe)</strong></h1>
 <h3 align="center" style="color: #FFA500;">Passionate Full-Stack Developer | Expert in React, .NET, and Modern Web & Cloud Technologies</h3>
 
 <p align="center">
