@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #FFD700;">Welcome to Manish's GitHub Profile <strong style="color: #FFA500;">(HAVE 70+ HIDDEN REPOs..hehe)</strong></h1>
-<h3 align="center" style="color: #FFA500;">Passionate Full-Stack Developer | Expert in React, .NET, and Modern Web & Cloud Technologies</h3>
+<h3 align="center" style="color: #FFA500;">Passionate Full-Stack Developer | Expert in React, Next.js, Vite, .NET, and Modern Web & Cloud Technologies</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" width="400" />
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center" style="color: #FFA500;">
-  🌱 Currently exploring <strong>Next.js, Vite, NeonDB, PostgreSQL</strong>, and enhancing my expertise in cutting-edge full-stack and cloud development.
+  🌱 Currently exploring <strong>NeonDB, PostgreSQL</strong>, and enhancing my expertise in cutting-edge full-stack and cloud development.
 </p>
 
 <p align="center" style="color: #FFA500;">
